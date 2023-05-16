@@ -6,8 +6,8 @@
 `
 
 - 目標商品來源: [https://price.nat.gov.tw/p/zh_tw/price_history/abf3a12e-93d8-45a1-80cf-d848118a6503](https://price.nat.gov.tw/p/zh_tw/price_history/abf3a12e-93d8-45a1-80cf-d848118a6503)
-- 前端網站: [https://d1035899.github.io/HW4/html/table.html](https://d1035899.github.io/HW4/html/table.html)
-- 後端網站: [https://d1035899.github.io/HW4/html/data.html](https://d1035899.github.io/HW4/html/data.html)
+- 前端網站: [https://d1035899.github.io/HW4/public/html/table.html](https://d1035899.github.io/HW4/public/html/table.html)
+- 後端網站: [https://d1035899.github.io/HW4/public/html/data.html](https://d1035899.github.io/HW4/public/html/data.html)
 - 說明網站: [https://github.com/D1035899/HW4/blob/master/README.md](https://github.com/D1035899/HW4/blob/master/README.md)
 - Code Repo: [https://github.com/D1035899/HW4](https://github.com/D1035899/HW4)
 
