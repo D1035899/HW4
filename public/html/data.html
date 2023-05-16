@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>新增資料</title>
+</head>
+<body>
+<h1>資料添加平台</h1>
+<h2>請在下方選擇日期以及價格</h2>
+<a href = "/html/table.html">如要前往查價平台請點此</a>
+<form id="price_data" action="http://localhost:3000/api" method="post">
+    <label for="date">日期</label>
+    <input type="date" id="date" name="date"
+           value="2023-05-15"
+           min="2020-01-01" max="2023-12-31"/>
+    <label for="price">價格</label>
+    <input type="text" id="price" name="price" />
+    <button type="submit" id = "submit">添加資料</button>
+</form>
+
+<script>
+    const btn = document.getElementById('submit');
+    btn.addEventListener('click', handleSubmit);
+
+    async function handleSubmit() {
+        window.alert('添加資料成功!');
+        window.location.reload();
+    }
+</script>
+</body>
+</html>
